@@ -21,7 +21,7 @@ git clone https://github.com/K1M4K-ID/mediaplayer
 
 cd mediaplayer
 
-chmod +x mediaplayer.sh
+chmod +x mediadownloader.sh
 
 ./mediaplayer
 
@@ -33,7 +33,7 @@ git clone https://github.com/K1M4K-ID/mediaplayer
 
 cd mediaplayer
 
-chmod +x mediaplayer.sh
+chmod +x mediadownloader.sh
 
 ./mediaplayer
 
